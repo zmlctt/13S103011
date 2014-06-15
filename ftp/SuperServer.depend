@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1402318781 source:d:\cbdec\superserver\main.cpp
+	<iostream>
+	<winsock.h>
+	<stdio.h>
+	<fstream>
+	<string.h>
+
